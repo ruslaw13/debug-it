@@ -6,7 +6,7 @@
 2. In the terminal run:
 
 ```
-node debug.it.js
+node debug-it.js
 ```
 
 Carefully read the errors and fix them!
